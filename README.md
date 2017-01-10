@@ -1,4 +1,4 @@
-Phoenix is a cpmpilation-phase checkpointing tool which makes use of metaprogramming designed for use in C++ programs
+Phoenix is a compilation-phase checkpointing tool which makes use of metaprogramming designed for use in C++ programs
 (minimum support is for C++11), with optional support for (most) OpenMP features.
 
 The goal of Phoenix is to provide an easy to use, pragma-based metalanguage which allows for quick and easy
